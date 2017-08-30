@@ -1,4 +1,4 @@
 git pull origin master
 git add .
-git commit -m "第一次提交"
+git commit -m "用 PHP 的方式实现的各类算法合集"
 git push origin master
